@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_dbs08</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>01/01/2018 00:00:00</timeStamp>
+  <nameHash>dbs08</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>dbs08_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <!--<type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="19" />  
+  <minorOrder value="0" />
+  <isLevelPack value="false" />
+  <dependencyPackHash />
+  <requiredVersion />
+  <subPackCount value="0" />-->
+</SSetupData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_488</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>20/2/2016 2:16:10</timeStamp>
+  <nameHash>488</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>488_AUTOGEN</Item>	
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="13" />  
+</SSetupData>
